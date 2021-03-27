@@ -1,0 +1,1 @@
+let args_count = (...arg) => arg.length
